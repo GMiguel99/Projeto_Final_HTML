@@ -1,0 +1,65 @@
+nav {
+	background-color: black;
+	font-size: 30px;
+}
+
+ul, ol, li {
+	list-style:none;
+}
+
+a:link, :visited {
+	color: white;
+}
+
+.b1 {
+	background: url(https://images2.alphacoders.com/100/thumb-1920-1009968.jpg) no-repeat center top fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size:cover;
+}
+
+.b2 {
+	background: url(https://www.tokkoro.com/picsup/2901671-rainbow-six-siege-video-games-artwork___game-wallpapers.jpg) no-repeat center top fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size:cover;
+	
+}
+
+.caixaVG {
+	background-color: rgba(0,0,0,0.6);
+	position: absolute;
+}
+
+.secao{
+	text-align: center;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background: rgba(0, 0, 0, 0.7);
+	padding: 1%;
+    font-size: 35px;
+	
+}
+
+.bgTr {
+	background: rgb(54, 54, 54, 0.7);
+}
+
+.agtsNome {
+	text-align: center;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 30px;
+	color: white;
+}
+
+.tamanhoMps {
+	width:95%;
+	height:90%;
+	
+}
+
+.alinhamentoCentro {
+	align: center;
+}
